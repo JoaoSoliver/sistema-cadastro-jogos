@@ -4,9 +4,8 @@
 
 > Fase de prototipação
 
-Para rodar esse projeto na máquina digite: 
+Para rodar esse projeto na máquina: 
 ```
-npm install react
+install node.js
 notepad++
-pascalzin
 ```
