@@ -9,3 +9,5 @@ Para rodar esse projeto na máquina:
 install node.js
 notepad++
 ```
+;)
+
